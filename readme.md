@@ -1,4 +1,4 @@
-# Playwright Best Practices
+# Playwright Best Practices (skill.md)
 
 A reference guide for writing stable, maintainable Playwright automation code.
 
